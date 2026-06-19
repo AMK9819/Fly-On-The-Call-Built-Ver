@@ -1,0 +1,8 @@
+Fly on the Call Image filters applied:
+1. Scan filter
+2. Double vision filter at 5 %
+FROM PIXLR:
+3. Clarity -100
+4. Noise 16
+5. Dehaze 100
+6. RBG Split 3
