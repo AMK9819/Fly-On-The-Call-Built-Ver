@@ -22,7 +22,7 @@ label Day_1:
 
     co_dev_jai "The application downstream upstream error testing UI ticket ABCD EFG geocode Northern Mariana Islands."
 
-    boss "Excellent work, please have a Demo scheduled today I'd love to see what you and Thomson have worked on. Speaking of Thomson, Thomson! What's the      status?"
+    boss "Excellent work, please have a Demo scheduled today I'd love to see what you and Thomson have worked on. Speaking of Thomson, Thomson! What's the status?"
 
     co_dev_thomson "So, it should be pretty much finished, I have to-"
 
@@ -68,7 +68,7 @@ label Day_1:
 
     "(The conflict between the Indians and the Chinese have reached levels I could not have possibly imagined.)"
 
-    "(This is also the only Chinese resturuant local to the area, although I have never slurped garbage, I did feel rather sad that I would probably never get the chance to slurp up some moldy General Tso's Chicken with Eggroll.)"
+    "(This is also the only Chinese resturuant local to the area, although I have never slurped garbage, I did feel rather sad that I would probably never get the chance to slurp up some moldy General Tso's Chicken with eggroll.)"
 
     lead "Also, the business wants some edits to our current report generation script, they want to have separate reports based on the company name, I'll add more details on this in the ticket."
 

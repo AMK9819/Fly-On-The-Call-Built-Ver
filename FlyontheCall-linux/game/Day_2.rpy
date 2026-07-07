@@ -58,7 +58,7 @@ label Day_2_Start:
 
     lead "Don't tell anyone, or ask anyone else for help on what I am going to assign to you."
 
-    lead "I think it may lead to a lot of confusion if anyone else was involved with I wannt to assign you which cause the delivery of the item to be delayed."
+    lead "I think it may lead to a lot of confusion if anyone else was involved with I want to assign you which cause the delivery of the item to be delayed."
 
     lead "As you know, it is unacceptable for anything we work on to be delivered later than the due date, it reflects badly on all of us."
 
@@ -74,9 +74,9 @@ label Day_2_Start:
 
     fly "..."
     
-    "Thirty minutes had passed and I did not get a response."
+    "(Thirty minutes had passed and I did not get a response.)"
 
-    "I decided to go up to Jai to see if he needed help with anything."
+    "(I decided to go up to Jai to see if he needed help with anything.)"
 
     jump Day_2_Jai_Convo
 

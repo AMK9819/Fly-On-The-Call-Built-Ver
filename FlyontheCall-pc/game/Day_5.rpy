@@ -53,7 +53,7 @@ label Final_Act_Day_5_In_Front_Of_The_Office:
 
     fly "bzz."
 
-    "my-"
+    "(my-)"
 
     jump Final_Act_A_Natural_Death
 

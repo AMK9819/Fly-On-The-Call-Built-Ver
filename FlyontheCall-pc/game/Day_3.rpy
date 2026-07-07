@@ -270,7 +270,7 @@ label Day_3_bug_investigation_two:
 
     co_dev_thomson "Aw shucks, can I see your previous executions?"
 
-    co_dev_thomson "hmm, yeah it is just intermittent, let me contact Drucker and have him test it."
+    co_dev_thomson "Hmm, yeah it is just intermittent, let me contact Drucker and have him test it."
 
     boss "Hello hello you guys are having trouble with the script? let me see it run first."
 
