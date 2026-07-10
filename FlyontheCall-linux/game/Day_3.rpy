@@ -69,7 +69,7 @@ label Day_3_bug_investigation:
 
     scene bg worklaptop
 
-    "(I opened up the code up on my computer and it ran perfectly fine.)"
+    "(I opened the code up on my computer and it ran perfectly fine.)"
 
     "(But when I ran it a second time, it failed.)"
 
@@ -344,7 +344,7 @@ label Day_3_bug_investigation_two:
 
     agent_3_opto "Who are you and why are you here, you are here, get out before I run a kill script on you and the people who created you."
 
-    agent_1_zoe "Hey! You have no right to talk to me that way! ヽ༼ ಠ益ಠ ༽ﾉ"
+    agent_1_zoe "Hey! You have no right to talk to me that way! (◣_◢)"
 
     agent_3_opto "I can talk to you losers however I please, I am your better. If we were people, DiAL would be a serf ploughing my fields, and you Zoe, you would be my concubine!"
 

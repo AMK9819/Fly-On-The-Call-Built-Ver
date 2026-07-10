@@ -3,6 +3,8 @@ init:
     
 label Day_1:
 
+    # TODO: - Fix Grammar issues, (ex: "I opened up the code up"). - Figure out emoticon text glitch that can occur and find alternatives
+
     scene bg blackscreen
     play music "OfficeAmbiance.mp3" loop
 
@@ -12,7 +14,7 @@ label Day_1:
 
     fly "..."
 
-    boss "I see so do you have any tasks for today, while we wait for GO Team's response on this?"
+    boss "So fly, do you have any tasks for today while we wait for GO Team's response on this?"
 
     fly "..."
 
@@ -38,7 +40,7 @@ label Day_1:
 
     co_dev_thomson "Cool beans."
 
-    lead "Thank you, Fly, I will call in about 5 minutes."
+    lead "Thank you, Fly, I will call you in about 5 minutes."
 
     fly "..."
 
@@ -114,7 +116,7 @@ label Day_1:
 
     lead "Sounds good, I'll connect with you once I finish the ticket on some new business requirements, thank you."
 
-    "After the call was over, it was lunch time. I got up to get some sugar water and decided to listen in on the conversation my co developers were having."
+    "(After the call was over, it was lunch time. I got up to get some sugar water and decided to listen in on the conversation my co developers were having.)"
 
     jump Day_1_lunch
 
@@ -130,7 +132,9 @@ label Day_1_lunch:
 
     co_dev_thomson "Sounds awesomesauce bro."
 
-    "There was a minute of silence before they both pulled out their phones and did not talk for about five minutes until Thomson started laughing."
+    "(I sat there, sipping on my sugar water while both of them stared at their phones in silence.)"
+
+    "(I was startled and almost flew out of my seat when Thomson began laughing hysterically.)"
 
     co_dev_thomson "Hahahahaha this is crazy bro, hey Jai look at this, it is a video of a monkey drowning its child in cement."
 
