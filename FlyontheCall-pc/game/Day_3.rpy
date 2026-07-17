@@ -163,7 +163,7 @@ label Day_3_one_on_one:
 
     boss "You can't retain a single thing that is said to you, which is beyond frustrating to deal with, did you remember any of the code I told you to memorize before?"
 
-    "(He was right in this respect, although I tried I did not remember a single thing.)"
+    "(He was right in this respect, although I tried, I did not remember a single thing.)"
 
     fly "..."
 

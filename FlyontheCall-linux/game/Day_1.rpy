@@ -3,8 +3,6 @@ init:
     
 label Day_1:
 
-    # TODO: - Fix Grammar issues, (ex: "I opened up the code up"). - Figure out emoticon text glitch that can occur and find alternatives
-
     scene bg blackscreen
     play music "OfficeAmbiance.mp3" loop
 
@@ -14,7 +12,7 @@ label Day_1:
 
     fly "..."
 
-    boss "So fly, do you have any tasks for today while we wait for GO Team's response on this?"
+    boss "So fly, do you have any tasks for today while we wait for GO Teams' response on this?"
 
     fly "..."
 
@@ -24,9 +22,9 @@ label Day_1:
 
     co_dev_jai "The application downstream upstream error testing UI ticket ABCD EFG geocode Northern Mariana Islands."
 
-    boss "Excellent work, please have a Demo scheduled today I'd love to see what you and Thomson have worked on. Speaking of Thomson, Thomson! What's the status?"
+    boss "Excellent work, please have a demo scheduled today I'd love to see what you and Thomson have worked on. Speaking of Thomson, Thomson! What's the status?"
 
-    co_dev_thomson "So, it should be pretty much finished, I have to-"
+    co_dev_thomson "So, it should be pretty much finished, I have to—"
 
     boss "'you think'? 'it should'? nonesense. I need cold hard answers, do not wriggle around like a worm boy, your answer must be stiff like a hard girthy tree!"
 
@@ -40,7 +38,7 @@ label Day_1:
 
     co_dev_thomson "Cool beans."
 
-    lead "Thank you, Fly, I will call you in about 5 minutes."
+    lead "Thank you, Fly, I will call you in about five minutes."
 
     fly "..."
 
